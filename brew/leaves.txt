@@ -1,0 +1,11 @@
+curl
+ffmpeg
+git
+ntfs-3g
+pipenv
+telnet
+tmux
+tree
+unrar
+wget
+zsh-completions
